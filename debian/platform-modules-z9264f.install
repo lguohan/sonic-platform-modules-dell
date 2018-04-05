@@ -1,0 +1,4 @@
+z9264f/scripts/check_qsfp.sh usr/local/bin
+z9264f/scripts/platform_sensors.py usr/local/bin
+z9264f/scripts/sensors usr/bin
+z9264f/cfg/z9264f-modules.conf etc/modules-load.d
