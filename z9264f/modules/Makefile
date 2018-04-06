@@ -1,2 +1,2 @@
-#obj-m := dell_z9264f_fpga_ocores.o
+obj-m := dell_z9264f_fpga_ocores.o
 
